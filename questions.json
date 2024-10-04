@@ -1,0 +1,221 @@
+[
+  {
+    "questionNo": "Q1.",
+    "question": "Which word is a synonym for 'Loved'?",
+    "options": [
+      "Disliked",
+      "Adored",
+      "Ignored"
+    ],
+    "correct": 1,
+    "explanation": "'Adored' means the same as 'Loved,' both showing strong affection."
+  },
+  {
+    "questionNo": "Q2.",
+    "question": "Which word can replace 'Enjoyed' in this sentence? I really enjoyed the movie last night.",
+    "options": [
+      "Hated",
+      "Liked",
+      "Acknowledged"
+    ],
+    "correct": 1,
+    "explanation": "'Liked' is a synonym for 'Enjoyed,' meaning to find something pleasant or fun."
+  },
+  {
+    "questionNo": "Q3.",
+    "question": "Which word can replace 'Thought' in this sentence? I thought about the problem carefully.",
+    "options": [
+      "Believed",
+      "Ignored",
+      "Forgot"
+    ],
+    "correct": 0,
+    "explanation": "'Believed' is a synonym for 'Thought,' meaning to have an idea or opinion."
+  },
+  {
+    "questionNo": "Q4.",
+    "question": "Which word is a synonym for 'Noticed'?",
+    "options": [
+      "Spotted",
+      "Missed",
+      "Sprinted"
+    ],
+    "correct": 0,
+    "explanation": "'Spotted' is a synonym for 'Noticed,' meaning to see or detect something."
+  },
+  {
+    "questionNo": "Q5.",
+    "question": "Which word is a synonym for 'Enemies'?",
+    "options": [
+      "Friends",
+      "Rivals",
+      "Allies"
+    ],
+    "correct": 1,
+    "explanation": "'Rivals' is a synonym for 'Enemies,' meaning people who compete or are in conflict."
+  },
+  {
+    "questionNo": "Q6.",
+    "question": "'Concerned' and 'Worried' are synonyms.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correct": 0,
+    "explanation": "'Concerned' and 'Worried' both describe feeling uneasy or anxious about something."
+  },
+  {
+    "questionNo": "Q7.",
+    "question": "'Tossed' and 'Passed' are synonyms.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correct": 0,
+    "explanation": "'Tossed' and 'Passed' can both mean to throw something from one person to another."
+  },
+  {
+    "questionNo": "Q8.",
+    "question": "'Grinned' and 'Sad' are synonyms.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correct": 1,
+    "explanation": "'Grinned' and 'Sad' are not synonyms. However, 'Grinned' and 'Smiled' are synonyms, which means to make a facial expression showing happiness or pleasure."
+  },
+  {
+    "questionNo": "Q9.",
+    "question": "'During' and 'Throughout' are synonyms.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correct": 0,
+    "explanation": "Both 'During' and 'Throughout' describe a period of time when something happens."
+  },
+  {
+    "questionNo": "Q10.",
+    "question": "'Quarrel' and 'Fight' are synonyms.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correct": 0,
+    "explanation": "Both 'Quarrel' and 'Fight' involve discussing or arguing about something in a bad way."
+  },
+  {
+    "questionNo": "Q11.",
+    "question": "Fill in the blank with a synonym for 'Help': I will __________ you with your homework.",
+    "options": [
+      "Ignore",
+      "Assist",
+      "Refuse"
+    ],
+    "correct": 1,
+    "explanation": "'Assist' is a synonym for 'Help,' meaning to give support or aid."
+  },
+  {
+    "questionNo": "Q12.",
+    "question": "Fill in the blank with a synonym for 'Thanked': I __________ my friend for the gift.",
+    "options": [
+      "Ignored",
+      "Disregarded",
+      "Appreciated"
+    ],
+    "correct": 2,
+    "explanation": "'Appreciated' is a synonym for 'Thanked,' meaning to show gratitude."
+  },
+  {
+    "questionNo": "Q13.",
+    "question": "Fill in the blank with a synonym for 'Admired': She __________ the painting at the museum.",
+    "options": [
+      "Cherished",
+      "Ignored",
+      "Disliked"
+    ],
+    "correct": 0,
+    "explanation": "'Cherished' is a synonym for 'Admired,' meaning to value or appreciate highly."
+  },
+  {
+    "questionNo": "Q14.",
+    "question": "Fill in the blank with a synonym for 'Ran': The dog __________ quickly in the park.",
+    "options": [
+      "Sprinted",
+      "Walked",
+      "Stopped"
+    ],
+    "correct": 0,
+    "explanation": "'Sprinted' is a synonym for 'Ran,' meaning to run very fast."
+  },
+  {
+    "questionNo": "Q15.",
+    "question": "Fill in the blank with a synonym for 'Maybe': __________ we will go to the zoo tomorrow.",
+    "options": [
+      "Always",
+      "Perhaps",
+      "Never"
+    ],
+    "correct": 1,
+    "explanation": "'Perhaps' is a synonym for 'Maybe,' meaning possibly or not definitely."
+  },
+  {
+    "questionNo": "Q16.",
+    "question": "Which sentence is missing a word with a capital letter?",
+    "options": [
+      "We had dinner at a restaurant last night.",
+      "She enjoys reading books by j.k. rowling.",
+      "They saw a beautiful rainbow in the sky.",
+      "The children played in the backyard."
+    ],
+    "correct": 1,
+    "explanation": "'j.k. rowling' should be capitalised because it is the name of a specific person. The correct sentence is: 'She enjoys reading books by J.K. Rowling.'"
+  },
+  {
+    "questionNo": "Q17.",
+    "question": "Choose the incorrect spelling from the sentence: 'The library has many books about artciles on history and art for you to enjoy.'",
+    "options": [
+      "Library",
+      "History",
+      "Enjoy",
+      "Artciles"
+    ],
+    "correct": 3,
+    "explanation": "The correct spelling is 'article' (with 'ic'). 'Artciles' is incorrect because it has letters in the wrong order."
+  },
+  {
+    "questionNo": "Q18.",
+    "question": "Choose the correct word to complete the sentence: 'The elephants in the zoo were _____.",
+    "options": [
+      "wide",
+      "enormous",
+      "high",
+      "size"
+    ],
+    "correct": 1,
+    "explanation": "The sentence 'The elephants in the zoo were _____' needs a word that describes the large size of the elephants. Enormous means very large or huge, which perfectly describes the size of elephants."
+  },
+  {
+    "questionNo": "Q19.",
+    "question": "Which word can replace 'Ask' in this sentence? Can you please ask for the directions?",
+    "options": [
+      "Answered",
+      "Question",
+      "Ignored"
+    ],
+    "correct": 1,
+    "explanation": "'Question' is a synonym for 'Asked,' meaning to request information."
+  },
+  {
+    "questionNo": "Q20.",
+    "question": "Which sentence is missing a word with a capital letter?",
+    "options": [
+      "I visited the temple last weekend.",
+      "My brother plays on a soccer team.",
+      "The movie starts at seven o'clock.",
+      "he loves going to the zoo."
+    ],
+    "correct": 3,
+    "explanation": "The pronoun 'he' should be capitalised because it is the beginning of the sentence. The correct sentence is: 'He loves going to the zoo.'"
+  }
+]
